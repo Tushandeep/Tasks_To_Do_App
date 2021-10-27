@@ -61,7 +61,7 @@ class _RegisterState extends State<Register> {
     )
     :
     Scaffold(
-      backgroundColor: isDark ? Colors.black87 : const Color(0xFFcadffa),
+      backgroundColor: isDark ? Colors.black87 : Colors.white,
       body: Center(
         child: Padding(
           padding: const EdgeInsets.all(30.0),
@@ -261,7 +261,7 @@ class _RegisterState extends State<Register> {
                         ),
                         recognizer: TapGestureRecognizer()
                           ..onTap = () {
-                            Navigator.push(context, MaterialPageRoute(builder: (context) => const Login()));
+                            Navigator.pop(context);
                         }
                       ),
                     ]

@@ -43,7 +43,6 @@ dependencies:
   intl:
   cloud_firestore:
   shared_preferences:
-  workmanager:
   flutter_staggered_grid_view:
   get:
   provider:
