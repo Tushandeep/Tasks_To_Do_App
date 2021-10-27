@@ -8,7 +8,6 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:tasktodo_app/constants/gloabal_var.dart';
 import 'package:tasktodo_app/exceptions/auth_exception_handler.dart';
 import 'package:tasktodo_app/model/exception_data.dart';
-import 'package:tasktodo_app/screens/login.dart';
 import 'package:tasktodo_app/services/auth.dart';
 import 'package:tasktodo_app/services/theme_provider.dart';
 import 'package:tasktodo_app/widgets/square_loading.dart';

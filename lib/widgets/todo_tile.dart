@@ -156,7 +156,7 @@ class _ToDoTileState extends State<ToDoTile> {
                         children: <Widget>[
                           Padding(
                             padding: const EdgeInsets.fromLTRB(5, 0, 0, 0),
-                            child: Text((widget.todo.taskName.length > 15) ? widget.todo.taskName.substring(0, 15) + "..." : widget.todo.taskName, style: GoogleFonts.lato(fontSize: 25)),
+                            child: Text((widget.todo.taskName.length > 17) ? widget.todo.taskName.substring(0, 17) + "..." : widget.todo.taskName, style: GoogleFonts.lato(fontSize: 25)),
                           ),
                         ],
                       ),
