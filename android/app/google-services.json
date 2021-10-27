@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239540342735",
+    "project_id": "todo-app-d5561",
+    "storage_bucket": "todo-app-d5561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239540342735:android:e979214bc695aed1b38cba",
+        "android_client_info": {
+          "package_name": "com.developer.deep.tasktodo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239540342735-olkkgp05qtenn7f7co559n77vmb59mhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO9MPKOO6WYO70ZT44OQrq4bWva_VV3DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239540342735-olkkgp05qtenn7f7co559n77vmb59mhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
